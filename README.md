@@ -1,12 +1,8 @@
 # dice-roller
-dice-roller
 
-A Dice Roller Simple App writrm in Kotlin
-Dice have 3 faces
-each Face have from 1 to 6 possibilities 
-when the @main() is called the faces should be randomly change
+This is a simple dice roller app written in Kotlin. The app has three dice faces.
 
+each with six possible values from 1 to 6. The app randomly changes the values of the dice when the @main() function is called. 
 
-App dont show duplicte face numbers when excuted 
-i
-App is under test
+The app does not show duplicate values on the dice when executed. The app is still under testing.
+
