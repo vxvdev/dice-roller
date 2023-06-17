@@ -8,4 +8,5 @@ when the @main() is called the faces should be randomly change
 
 
 App dont show duplicte face numbers when excuted 
-
+i
+App is under test
