@@ -10,3 +10,7 @@ The app does not show duplicate values on the dice when executed. The app is sti
 #some code changs 
 
 day 19June2023
+
+#facesAltrations update
+
+readMe update for the new Branch in which we change the dice face wih new range of random nums
